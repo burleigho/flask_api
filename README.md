@@ -30,7 +30,7 @@ Open a browser and navigate to the following URL susbstituting the endpoint with
 
 To run without Docker and assuming Python is installed, navigate to the app directory and run the following commands to launch a dev server
 
-```pip: -r requirements.txt```
+```pip install -r requirements.txt```
 
 ```python app.py```
 
