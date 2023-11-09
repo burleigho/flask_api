@@ -26,7 +26,7 @@ To run your application locally via Docker using the image name and tag built in
 
 Open a browser and navigate to the following URL susbstituting the endpoint with one of the three listed at the start of this README
 
-```http://localhost:8080/{endpoint}``
+```http://localhost:8080/{endpoint}```
 
 To run without Docker and assuming Python is installed, navigate to the app directory and run the following commands to launch a dev server
 
