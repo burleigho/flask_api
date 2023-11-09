@@ -3,7 +3,9 @@
 The code in this repository builds a FLask application serving three endpoints
 
 ```\metrics``` - automatically created by Prometheus Flask Exporter
+
 ```\login```   - returning a 200 response
+
 ```\secret```  - a secret passed it from a local env var at build time
 
 ## Usage
